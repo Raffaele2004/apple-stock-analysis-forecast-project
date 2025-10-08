@@ -1,10 +1,10 @@
 # 📊 Apple Stock Analysis & Forecast
 
 ## 1️⃣ Apple Stock Close Price Over Time
-![Apple Close Price](apple_Stock_Close_Price_Over_Time.png)
-
 This line chart shows the evolution of Apple’s *Close Price* from 2020 to 2025.
 We can clearly see an upward long-term trend, with a major **drop in early 2020** during the COVID-19 crisis, followed by a strong recovery and consistent growth. The highest peak corresponds to the most recent months, highlighting Apple’s continued market strength.
+
+![Apple Close Price](apple_Stock_Close_Price_Over_Time.png)
 
 ---
 
