@@ -1,1 +1,1 @@
-# apple-stock-analysis-forecast-project
+# Apple Stock Analysis & Forecast Project
