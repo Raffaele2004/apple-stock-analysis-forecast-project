@@ -1,7 +1,7 @@
 # 📊 Apple Stock Analysis & Forecast
 This project provides an in-depth analysis of **Apple Inc. (AAPL)** stock performance from 2020 to 2025, using real monthly data.  
 The analysis explores **price trends, trading volume, returns, correlations, and moving averages**, and concludes with a **forecast for 2026** using the **Facebook Prophet** model.  
-The goal is to visualize and interpret Apple’s stock evolution over time and to understand possible future price movements through data-driven insights
+The goal is to visualize and interpret Apple’s stock evolution over time and to understand possible future price movements through data-driven insights.
 
 ---
 
