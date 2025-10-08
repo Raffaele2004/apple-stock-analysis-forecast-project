@@ -40,9 +40,8 @@ This highlights the **volatility and cyclical nature** of the stock’s performa
 ---
 
 ## 5️⃣ Correlation Matrix
-The correlation heatmap shows the relationships between **Open, High, Low, and Close** prices, plus **Volume**.
+The correlation heatmap shows the relationships between **Open, High, Low, and Close** prices.
 The OHLC values are **highly correlated (0.97–0.99)**, which is expected since they all describe different aspects of the same stock price behavior.
-Conversely, **Volume** shows a **negative correlation** with prices (around –0.74), suggesting that higher trading activity often occurs during price declines — a common phenomenon in financial markets.
 
 ![Correlation Matrix](correlation_matrix_between_open_high_low_close.png)
 
